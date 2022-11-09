@@ -1,5 +1,14 @@
 # Projeto 05: Componente Trabalhos
+
+### Desktop
 <img src="./images/screenshot.png"/>
+
+### Tablet
+<img src="./images/screenshot-tablet.png"/>
+
+### Mobile
+<img src="./images/screenshot-mobile.png"/>
+
 
 ### Acesse o projeto: [Aqui](https://jonasncsantos.github.io/Crie-seu-evento/)
 
