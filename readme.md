@@ -12,4 +12,5 @@ Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados n
 - root 
 - Tansições no CSS
 - Transformações no CSS
+- Animações com CSS
 - 
