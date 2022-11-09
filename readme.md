@@ -13,4 +13,6 @@ Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados n
 - Tansições no CSS
 - Transformações no CSS
 - Animações com CSS
+- Display Grid do CSS
+- Filtro CSS
 - 
