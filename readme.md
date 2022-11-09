@@ -10,4 +10,6 @@ Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados n
 - Variaveis no CSS
 - Cores em HSL 
 - root 
+- Tansições no CSS
+- Transformações no CSS
 - 
