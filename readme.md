@@ -14,5 +14,5 @@ Projeto desenvolvido durante aula para aplicação dos conhecimentos ensinados n
 - Transformações no CSS
 - Animações com CSS
 - Display Grid do CSS
-- Filtro CSS
-- 
+- Filtro em imagens com CSS
+- Clamp do CSS
